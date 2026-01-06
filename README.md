@@ -6,7 +6,7 @@
 - 📝 **Blog**: [Rutvi's Backend Bytes](https://rutvi-dhameliya.hashnode.dev/)  
 - 💼 **LinkedIn**: [rutvi-dhameliya](https://www.linkedin.com/in/rutvi-dhameliya-685384228/)  
 - 📧 **Email**: [rutvidhameliya222@gmail.com](mailto:rutvidhameliya222@gmail.com)  
-- 📄 **Resume**: *(link coming soon)*   
+- 📄 **Resume**: [Rutvi Dhameliya](https://rutvi-dhameliya.netlify.app/rutvi_dhameliya.pdf) 
 
 ## 🌱 Fun Fact
 I believe in **"Keep building, keep learning"** - every small project makes me stronger.  
